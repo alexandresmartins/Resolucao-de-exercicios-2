@@ -1,2 +1,2 @@
-# Resolu-o-de-exerc-cios
+# Resolução de exercícios
 Cada subpasta deste repositório contém a resolução do exercício respectivo.
