@@ -1,1 +1,5 @@
+Para resolver o problema, podemos usar a fórmula de distância = velocidade x tempo. Como a distância entre Ribeirão Preto e Franca é de 100 km e os veículos saíram de cidades opostas, a distância percorrida pelo carro e pelo caminhão até o ponto de encontro será de 50 km cada.
 
+O tempo que cada um dos veículos leva para chegar ao ponto de encontro pode ser encontrado usando a mesma fórmula: tempo = distância / velocidade. Para o carro, o tempo será de 50 km / 110 km/h = 0,45 horas, ou seja, 27 minutos. Já para o caminhão, devido aos dois pedágios em que ele leva 5 minutos a mais para passar em cada um, o tempo será de 50 km / 80 km/h + 2 x 5 minutos = 0,75 horas, ou seja, 45 minutos.
+
+Portanto, quando eles se cruzarem na rodovia, o carro estará mais próximo da cidade de Ribeirão Preto, pois já percorreu mais da metade do trajeto. O caminhão, por sua vez, ainda terá que percorrer 50 km até chegar em Ribeirão Preto.
