@@ -1,2 +1,2 @@
 # Resolu-o-de-exerc-cios
-Este repositório contém a resolução de uma lista de exercícios.
+Cada subpasta deste repositório contém a resolução do exercício respectivo.
